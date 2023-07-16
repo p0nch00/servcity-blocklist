@@ -1,11 +1,3 @@
-Name: banned-hosts
-Type: hash:ip
-Revision: 5
-Header: family inet hashsize 2048 maxelem 65536 bucketsize 12 initval 0x316b0e3d
-Size in memory: 154864
-References: 1
-Number of entries: 6723
-Members:
 171.101.130.5
 181.115.73.103
 23.132.48.1
